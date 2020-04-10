@@ -139,4 +139,3 @@ MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
 
 LOGIN = '/basic_app/user_login'
-ALLOWED_HOSTS = ['community.pythonanywhere.com']
